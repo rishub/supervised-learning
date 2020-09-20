@@ -15,7 +15,7 @@ from sklearn.neighbors import KNeighborsClassifier as kNN
 from matplotlib import pyplot as plt
 
 
-USE_CREDIT = True
+USE_CREDIT = False
 
 
 
